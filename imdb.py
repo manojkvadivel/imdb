@@ -54,7 +54,7 @@ def get_all_details():
     poster = section.findAll("a", "poster ")
     # print poster
 
-    celebrity_details = []  # Create Empty List and later append
+    # celebrity_details = []  # Create Empty List and later append
 
     celebrity_json = []  # Create Empty List and later append
 
@@ -79,7 +79,7 @@ def get_all_details():
         # print "Best work:", bestwork.strip()  # remove the leading and trailing white spaces
         # print '\n'
 
-        celebrity_details.append(Actor(name, image, profession, bestwork))
+        # celebrity_details.append(Actor(name, image, profession, bestwork))
         celebrity_json.append({"name": name, "image": image, "profession": profession, "bestwork": bestwork})
     driver.close()
 
