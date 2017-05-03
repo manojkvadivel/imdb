@@ -1,0 +1,64 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@  Sentiment Analysis for Birthday Celebrities  @@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Name of the celebrity: Dwayne Johnson
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyNDQ3NzAxM15BMl5BanBnXkFtZTgwODIwMTQ0NTE@._V1._CR0,0,1363,2010_SX40_SY59.jpg
+Profession: Actor
+Best Work: "Fast & Furious 6"
+Overall Sentiment on Twitter: Positive
+
+Name of the celebrity: Christine Baranski
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMTYwMDUyM15BMl5BanBnXkFtZTcwNTk1MzQxMw@@._V1._CR14,0,271,400_SX40_SY59.jpg
+Profession: Actress
+Best Work: "How the Grinch Stole Christmas"
+Overall Sentiment on Twitter: Positive
+
+Name of the celebrity: Ellie Kemper
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMDU3NzE4NV5BMl5BanBnXkFtZTcwODQyNTQzNA@@._V1._CR28,0,1388,2048_SX40_SY59.jpg
+Profession: Actress
+Best Work: "21 Jump Street"
+Overall Sentiment on Twitter: Positive
+
+Name of the celebrity: Thomas McDonell
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BZjBmM2Y4M2MtNzg5My00NjBhLThhZTUtOTRhNTU2NTYyYzgyL2ltYWdlXkEyXkFqcGdeQXVyMTcwNDM4NjU@._V1._CR93,0,1094,1614_SX40_SY59.jpg
+Profession: Actor
+Best Work: "The Forbidden Kingdom"
+Overall Sentiment on Twitter: Positive
+
+Name of the celebrity: David Suchet
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMjc4Mjg3ODA0OV5BMl5BanBnXkFtZTcwNzI4Njg4OA@@._V1._CR54,0,1388,2048_SX40_SY59.jpg
+Profession: Actor
+Best Work: "A Perfect Murder"
+Overall Sentiment on Twitter: Positive
+
+Name of the celebrity: Robert Buckley
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1MDUzNzc0OF5BMl5BanBnXkFtZTcwNDYzMjIwNQ@@._V1._CR47,0,1388,2048_SX40_SY59.jpg
+Profession: Actor
+Best Work: "Flirting with Forty"
+Overall Sentiment on Twitter: Positive
+
+Name of the celebrity: Gaius Charles
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NDU0NzI0N15BMl5BanBnXkFtZTYwNjk4Njk3._V1._CR17,0,325,480_SX40_SY59.jpg
+Profession: Actor
+Best Work: "Salt"
+Overall Sentiment on Twitter: Positive
+
+Name of the celebrity: David Beckham
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODA0MDI4OF5BMl5BanBnXkFtZTgwMjEyNzI3MDE@._V1._CR561,0,925,1365_SX40_SY59.jpg
+Profession: Self
+Best Work: "The Class of 92"
+Overall Sentiment on Twitter: Positive
+
+Name of the celebrity: Kay Panabaker
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NDA0NjI3Nl5BMl5BanBnXkFtZTYwNTY4Mzgy._V1._CR0,0,440,649_SX40_SY59.jpg
+Profession: Actress
+Best Work: "Monsters
+Overall Sentiment on Twitter: Positive
+
+Name of the celebrity: Denyce Lawton
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTA4MjM0NzQ4NjReQTJeQWpwZ15BbWU4MDU0NTk0MDAx._V1._CR0,0,2912,4295_SX40_SY59.jpg
+Profession: Actress
+Best Work: "Vlog"
+Overall Sentiment on Twitter: Positive
+
