@@ -118,10 +118,10 @@ if __name__ == '__main__':
             OverallSentiment = sentiment.sentiment()
 
             # Writing all the attributes to output file.
-            outfile.write("Name of the celebrity: " + CelebrityName + "\n")
-            outfile.write("Celebrity Image: " + celebrities[c]["image"] + "\n")
-            outfile.write("Profession: " + celebrities[c]["profession"] + "\n")
-            outfile.write("Best Work: " + celebrities[c]["bestwork"] + "\n")
-            outfile.write("Overall Sentiment on Twitter: " + OverallSentiment + "\n\n")
+            outfile.write("Name of the celebrity: " + CelebrityName.encode("utf8") + "\n")
+            outfile.write("Celebrity Image: " + celebrities[c]["image"].encode("utf8") + "\n")
+            outfile.write("Profession: " + celebrities[c]["profession"].encode("utf8") + "\n")
+            outfile.write("Best Work: " + celebrities[c]["bestwork"].encode("utf8") + "\n")
+            outfile.write("Overall Sentiment on Twitter: " + OverallSentiment.encode("utf8") + "\n\n")
 
     print("Results are stored in output file 'imdb_celebrity_twitter_sentiment.txt'")
